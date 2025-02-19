@@ -70,6 +70,10 @@ namespace Aula01Variaveis
                     Console.WriteLine(cabecalho.ToUpper());
         }
 
+        // BATATA, PATATA, POTATO, POMME DE TERRE, KARTOFELL
+        // Maçã. Apple. Apfel. Pomme. Manzana.
+
+
 
 
 
